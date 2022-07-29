@@ -1,0 +1,19 @@
+{
+  "name": "4k-rss-image-finder",
+  "version": "1.0.0",
+  "description": "Scans RSS feeds for 4K images in order to save them to a local drive",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronortiz/4k-rss-image-finder.git"
+  },
+  "author": "Aaron Ortiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaronortiz/4k-rss-image-finder/issues"
+  },
+  "homepage": "https://github.com/aaronortiz/4k-rss-image-finder#readme"
+}
