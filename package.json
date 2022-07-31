@@ -1,7 +1,7 @@
 {
   "name": "4k-rss-image-finder",
   "version": "1.0.0",
-  "description": "Scans RSS feeds for 4K images in order to save them to a local drive",
+  "description": "Scans reddit RSS feeds for 4K images in order to save them to a local drive",
   "main": "index.js",
   "scripts": {
     "test": "test"
